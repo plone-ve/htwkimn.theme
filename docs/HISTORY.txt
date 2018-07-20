@@ -3,6 +3,7 @@ Changelog
 
 1.0.11
 -------------------
+- updated the diazo preview file [macagua]
 - updated the diazo manifest file [macagua]
 
 1.0.10
