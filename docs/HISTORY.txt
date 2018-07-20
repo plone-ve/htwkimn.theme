@@ -3,6 +3,7 @@ Changelog
 
 1.0.11
 -------------------
+- updated the copyright LICENSE file [macagua]
 - updated the diazo preview file [macagua]
 - updated the diazo manifest file [macagua]
 
