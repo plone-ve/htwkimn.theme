@@ -3,6 +3,8 @@ Changelog
 
 1.0.11
 -------------------
+- fixed the ConfigurationError: 'Unknown directive' for 'add_scss' 
+  from 'http://namespaces.zope.org/plonetheme.onegov' [macagua]
 - added more strings classifiers items for the metadata package [macagua]
 - updated the copyright LICENSE file [macagua]
 - updated the diazo preview file [macagua]
