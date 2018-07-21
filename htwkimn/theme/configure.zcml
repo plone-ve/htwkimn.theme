@@ -17,11 +17,12 @@
     <!-- -*- extra stuff goes here -*- -->
     <plone:static directory="resources" type="theme" />
 
+    <!-- include theme:* directives from plonetheme.onegov package -->
+    <include package="plonetheme.onegov" />
+
     <!-- Overwriting of variables and mixins need to be
          "prepended" to the onegov configuration, otherwise
          they have no effect -->
-
-    <include package="plonetheme.onegov" />
     <theme:add_scss path="resources/sass/overwrite_parent-sass-rules.scss" />
 
     <!-- Own additional generated rules -->
